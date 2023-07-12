@@ -1,2 +1,2 @@
 print ("Hello World!")
-print ("2+2 = ",2+2)
+print ("Apple is healthy")
